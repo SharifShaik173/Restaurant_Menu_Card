@@ -34,7 +34,7 @@ Each section includes item names, prices (in ₹), and food images.
 
 ## 👤 Author
 
-> Made with ❤️ by [Your Name]
+> Made by [Sharif]
 
 ## 📌 License
 
